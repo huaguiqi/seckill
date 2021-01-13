@@ -1,0 +1,109 @@
+2021-01-02 21:33:31,672 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:308] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-01-02 21:33:32,654 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-01-02 21:33:33,875 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:33:36,053 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:33:38,245 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:33:40,429 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:33:42,608 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:33:44,762 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:33:46,960 - 21192-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:34:58,582 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:308] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-01-02 21:34:59,284 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-01-02 21:34:59,737 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:01,900 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:04,330 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:06,526 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:08,718 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:10,895 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:13,291 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:15,448 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:17,652 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:19,834 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:22,260 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:24,442 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:26,632 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:28,803 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:30,990 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:33,153 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:35,345 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:37,539 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:39,706 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:41,894 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:44,096 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:46,272 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:48,438 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:50,614 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:52,797 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:54,980 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:35:57,146 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:01,023 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:03,311 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:06,171 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:08,460 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:11,786 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:16,092 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:18,387 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:20,683 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:22,968 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:25,642 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:27,938 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:30,236 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:33,215 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:35,496 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:37,796 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:40,081 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:42,371 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:44,661 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:46,958 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:49,254 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:51,542 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:53,825 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:56,126 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:36:58,410 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:00,706 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:03,305 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:05,588 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:09,113 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:13,811 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:16,107 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:18,405 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:20,699 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:22,993 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:25,284 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:27,572 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:29,860 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:32,461 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:34,752 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:37,040 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:39,331 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:41,614 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:43,899 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:46,187 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:48,486 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:37:50,781 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-01-02 21:37:53,082 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:208] - INFO: 已完成手机客户端确认
+2021-01-02 21:37:53,391 - 22504-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:231] - INFO: {'returnCode': 80}
+2021-01-02 21:38:07,110 - 15476-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:308] - INFO: reserve 需登陆后调用，开始扫码登陆
+2021-01-02 21:38:07,633 - 15476-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-01-02 21:38:08,081 - 15476-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:38:10,273 - 15476-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-02 21:38:12,465 - 15476-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:208] - INFO: 已完成手机客户端确认
+2021-01-02 21:38:12,656 - 15476-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:231] - INFO: {'returnCode': 80}
+2021-01-04 15:54:50,009 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:308] - INFO: seckill_by_proc_pool 需登陆后调用，开始扫码登陆
+2021-01-04 15:54:50,650 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:177] - INFO: 二维码获取成功，请打开京东APP扫描
+2021-01-04 15:55:01,665 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:04,273 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:07,891 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:10,067 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:12,242 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:14,430 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:16,637 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:18,827 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:21,036 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:23,198 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:26,934 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:44,378 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:46,593 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 201, Message: 二维码未扫描，请扫描二维码
+2021-01-04 15:55:48,771 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:205] - INFO: Code: 202, Message: 请手机客户端确认登录
+2021-01-04 15:55:51,503 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:208] - INFO: 已完成手机客户端确认
+2021-01-04 15:55:51,753 - 3152-MainThread - E:\aaa\999\jd_maotai_seckill\jd_spider_requests.py[line:231] - INFO: {'returnCode': 80}
